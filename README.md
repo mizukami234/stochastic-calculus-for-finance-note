@@ -7,6 +7,14 @@
 
 ほげほげ
 
+{% math %}
+
+ax^2 + bx + c = 0
+
+{% endmath %}
+
+block
+
 $$
 ax^2 + bx + c = 0
 $$ 
