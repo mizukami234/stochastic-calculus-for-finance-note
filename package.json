@@ -1,0 +1,29 @@
+{
+  "name": "stochastic-calculus-for-finance-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook install src && gitbook build src docs",
+    "serve": "gitbook install src && gitbook serve src"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-mathjax": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizukami234/stochastic-calculus-for-finance-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizukami234/stochastic-calculus-for-finance-note/issues"
+  },
+  "homepage": "https://github.com/mizukami234/stochastic-calculus-for-finance-note#readme"
+}

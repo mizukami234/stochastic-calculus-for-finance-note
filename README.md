@@ -1,20 +1,10 @@
-# ホーム
+```sh
+# 準備
+$ npm install
 
-## 書籍の構成
+# ローカルでgitbookサーバを立てる
+$ npm run serve
 
-1. 一期間二項モデル、多期間二項モデル
-2. コイン投げ空間の確率論
-
-ほげほげ
-
-{% math %}
-
-ax^2 + bx + c = 0
-
-{% endmath %}
-
-block
-
-$$
-ax^2 + bx + c = 0
-$$ 
+# docsディレクトリ下にビルドする
+$ npm run build
+```
