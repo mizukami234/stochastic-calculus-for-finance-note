@@ -1,20 +1,12 @@
-# ホーム
+# Home
 
-## 書籍の構成
+## このリポジトリについて
 
-1. 一期間二項モデル、多期間二項モデル
-2. コイン投げ空間の確率論
+これはファイナンスのための確立解析勉強会のノートです。
+[こちら](https://mizukami234.github.io/stochastic-calculus-for-finance-note/)から閲覧可能です。
 
-ほげほげ
+左の目次から閲覧可能です。
 
-{% math %}
+## Contribution
 
-ax^2 + bx + c = 0
-
-{% endmath %}
-
-block
-
-$$
-ax^2 + bx + c = 0
-$$ 
+[GitHubのリポジトリ](https://github.com/mizukami234/stochastic-calculus-for-finance-note)をfork/cloneし、`src/` 下を編集してビルドすることで `docs/` 下にHTMLが生成されます。生成されたHTMLごとcommitしてPull Requestを送って下さい。
